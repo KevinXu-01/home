@@ -1,12 +1,24 @@
 ---
-title: "Paper Title Number 2"
+title: "User Plays a Role: User-insight Multi-modal Recommendation"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Multi-Modal Recommendation (MMRec) aims to help users explore their potential interested items based on multi-modal information input and has been widely used in e-commerce platforms. Recent works mainly focus on modeling item-side information. However, they ignore the abundant semantic information from the user-information modeling, including age, gender, feedback, etc. Such imbalanced attention to item and user leads to inadequate expressiveness of comprehensive interests. 
+In this paper, we propose a novel \textbf{U}ser-\textbf{i}nsight \textbf{M}ulti-modal recommendation framework, termed UiM.
+This framework improves user modeling in three aspects:
+Firstly, to better explore the primary interests from a large-scale item pool, we propose to construct an enriched user profile to re-distribute attention to users' historical interactions.
+Secondly, to further disentangle compact representations from heterogeneous items, we propose to apply multi-interest feature extraction on re-attentioned item features.
+Moreover, an intrinsic shortage of a trivial recommender system is that it fails to access user feedback for in-place result adjustment. As a solution, we access pseudo feedback beforehand from an intelligent agent, then accordingly perform potential adjustments to recommendation candidates for finer results.
+Extensive experiments show that our model outperforms state-of-the-art multi-modal recommendation models in three public datasets.'
 date: 2010-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'http://KevinXu-01.github.io/files/paper2.pdf'
+citation: 'Jingyu Xu, Zechao Hu, Hao Li, et al. User Plays a Role: User-insight Multi-modal Recommendation. IEEE Transactions on Multimedia.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Multi-Modal Recommendation (MMRec) aims to help users explore their potential interested items based on multi-modal information input and has been widely used in e-commerce platforms. Recent works mainly focus on modeling item-side information. However, they ignore the abundant semantic information from the user-information modeling, including age, gender, feedback, etc. Such imbalanced attention to item and user leads to inadequate expressiveness of comprehensive interests. 
+In this paper, we propose a novel \textbf{U}ser-\textbf{i}nsight \textbf{M}ulti-modal recommendation framework, termed UiM.
+This framework improves user modeling in three aspects:
+Firstly, to better explore the primary interests from a large-scale item pool, we propose to construct an enriched user profile to re-distribute attention to users' historical interactions.
+Secondly, to further disentangle compact representations from heterogeneous items, we propose to apply multi-interest feature extraction on re-attentioned item features.
+Moreover, an intrinsic shortage of a trivial recommender system is that it fails to access user feedback for in-place result adjustment. As a solution, we access pseudo feedback beforehand from an intelligent agent, then accordingly perform potential adjustments to recommendation candidates for finer results.
+Extensive experiments show that our model outperforms state-of-the-art multi-modal recommendation models in three public datasets.
