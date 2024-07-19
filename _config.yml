@@ -12,7 +12,7 @@ title                    : "Kevin Xu / Personal Site"
 title_separator          : "-"
 name                     : &name "Kevin Xu"
 description              : &description "Master student at AIM Lab in Wuhan University"
-url                      : https://KevinXu-01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KevinXu-01/home"
 
