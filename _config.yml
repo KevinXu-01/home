@@ -12,7 +12,7 @@ title                    : "Kevin Xu / Personal Site"
 title_separator          : "-"
 name                     : &name "Kevin Xu"
 description              : &description "Master student at AIM Lab in Wuhan University"
-url                      : https://academicpages.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kevinxu-01.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KevinXu-01/home"
 
@@ -21,12 +21,12 @@ repository               : "KevinXu-01/home"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/pic.jpg"
+  avatar           : "pic.jpg"
   name             : "Jingyu Xu"
   pronouns         : # example: "he/him"  
   bio              : "Master student at AIM Lab in Wuhan University, research interests include recommender systems and LLMs"
   location         : "Beijing, China"
-  employer         : "AIM Lab in Wuhan University & EVOL Lab in TeleAI (China Telecom)"
+  employer         : "AIM Lab in WHU & EVOL Lab in TeleAI"
   uri              : # URL
   email            : "kevinxu@whu.edu.cn" 
 
