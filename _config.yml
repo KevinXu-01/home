@@ -21,7 +21,7 @@ repository               : "KevinXu-01/home"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/pic.png"
+  avatar           : "images/pic.jpg"
   name             : "Jingyu Xu"
   pronouns         : # example: "he/him"  
   bio              : "Master student at AIM Lab in Wuhan University, research interests include recommender systems and LLMs"
@@ -234,19 +234,19 @@ defaults:
       layout: single
       author_profile: true
   
-  # # _teaching
-  # - scope:
-  #     path: ""
-  #     type: teaching
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comments: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   
   # _publications
   - scope:
-      path: ""
+      path: "https://kevinxu-01.github.io/home/_publications/"
       type: publications
     values:
       layout: single
@@ -255,23 +255,23 @@ defaults:
       comments: true
 
   # # _portfolio
-  # - scope:
-  #     path: ""
-  #     type: portfolio
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  #     share: true
-  #     comment: true
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 
   # _talks
-  # - scope:
-  #     path: ""
-  #     type: talks
-  #   values:
-  #     layout: talk
-  #     author_profile: true
-  #     share: true
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 
 # Sass/SCSS
