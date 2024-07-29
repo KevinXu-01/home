@@ -6,7 +6,7 @@ excerpt: 'Recommender systems have become a fundamental service in most E-Commer
 '
 date: 2009-10-01
 venue: 'Journal 1'
-paperurl: 'http://KevinXu-01.github.io/files/paper1.pdf'
+paperurl: 'https://KevinXu-01.github.io/home/files/paper1.pdf'
 citation: 'Jingyu Xu, Zhengwei Yang, Zheng Wang. Beyond Preferences: Enriching User Profiles for Effective E-commerce Recommendations. IEEE Transactions on Computational Social Systems.'
 ---
 
