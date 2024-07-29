@@ -11,7 +11,7 @@ Moreover, an intrinsic shortage of a trivial recommender system is that it fails
 Extensive experiments show that our model outperforms state-of-the-art multi-modal recommendation models in three public datasets.'
 date: 2010-10-01
 venue: 'Journal 1'
-paperurl: 'http://KevinXu-01.github.io/files/paper2.pdf'
+paperurl: 'https://KevinXu-01.github.io/home/files/paper2.pdf'
 citation: 'Jingyu Xu, Zechao Hu, Hao Li, et al. User Plays a Role: User-insight Multi-modal Recommendation. IEEE Transactions on Multimedia.'
 ---
 
