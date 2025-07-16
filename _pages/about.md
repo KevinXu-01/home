@@ -16,4 +16,5 @@ More details can be found [here](https://kevinxu-01.github.io/home/publications/
 Education
 ------
 2022.09 - 2025.06, Master, Wuhan University, Wuhan.
+
 2018.09 - 2022.06, Bachelor, Wuhan University, Wuhan.
