@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Kevin Xu / Personal Site"
 title_separator          : "-"
 name                     : &name "Kevin Xu"
-description              : &description "Master student at AIM Lab in Wuhan University"
+description              : &description "MLE at TeleAI"
 url                      : https://kevinxu-01.github.io/home # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "KevinXu-01/home"
@@ -24,15 +24,15 @@ author:
   avatar           : "pic.jpg"
   name             : "Jingyu Xu"
   pronouns         : # example: "he/him"  
-  bio              : "Master student at AIM Lab in Wuhan University, research interests include recommender systems and LLMs"
+  bio              : "MLE at TeleAI, research interests include Recommender Systems and Text-to-Video Generation"
   location         : "Beijing, China"
-  employer         : "AIM Lab in WHU & EVOL Lab in TeleAI"
+  employer         : "TeleAI"
   uri              : # URL
   email            : "kevinxu@whu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=d4digAYAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/0009-0009-2586-516X"
   pubmed           : ""
