@@ -10,15 +10,12 @@ location: "Wuhan, China"
 
 **Introduction to Artifical Intelligence**
 
+
 Assisted professors in preparing course materials, grading assignments, and leading discussion sessions.
+======
+
 Held office hours to provide one-on-one support to students.
+======
+
 Facilitated lab sessions/tutorials for the course.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
 ======
